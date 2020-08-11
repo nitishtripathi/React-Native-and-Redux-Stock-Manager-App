@@ -2,11 +2,11 @@ React Native and Redux Stock Manager App
 
 This project is completely done on Expo. To get this file, please use
 
-git@github.com:nitishtripathi/React-Native-and-Redux-Stock-Manager-App.git
+	git@github.com:nitishtripathi/React-Native-and-Redux-Stock-Manager-App.git
 
 on the command promt, go to the folder by 'cd' on the Terminal and write
 
-'npm start' 
+	'npm start' 
 
 The functionalities are:
 1) Fetch a new Cryptocurrency by following the "+ Add a CryptoCurrency"
