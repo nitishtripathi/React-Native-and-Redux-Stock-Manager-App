@@ -26,8 +26,7 @@ The Functionalities this project covers are:
 	1) Navigation in React-Native
 	2) Redux
 	3) React-Navigation	
-	4) Redux
-	5) Redux Thunk
+	4) Redux Thunk
 
 You can add multiple Cryptocurrencies with the help of this Application.
 
